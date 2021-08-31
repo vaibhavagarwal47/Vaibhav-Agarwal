@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" height = "350px" src="https://i2.wp.com/windowscustomization.com/wp-content/uploads/2018/09/plexus1.gif" alt="cover" />
+<img width="100%" height = "300px" src="connected-vertices.gif" alt="cover" />
 </div>
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
