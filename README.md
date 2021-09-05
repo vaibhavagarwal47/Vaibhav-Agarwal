@@ -54,7 +54,9 @@
 
  
  <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+ <a href = 'https://www.github.com/vaibhavagarwal47'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/>&nbsp;&nbsp;&nbsp;</a> 
 <a href = 'https://www.linkedin.com/in/vaibhav-agarwal-565525168'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/>&nbsp;&nbsp;&nbsp;</a> 
 <a href = 'https://www.twitter.com/vaibhavdps'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/>&nbsp;&nbsp;&nbsp;</a> 
-<a href = 'https://www.github.com/vaibhavagarwal47'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
+ <a href = 'https://www.facebook.com/vaibhav.aggarwal.18007218'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/facebook.svg"/>&nbsp;&nbsp;&nbsp;</a> 
+ <a href = 'https://www.instagram.com/vaibhav_agarwal47'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg"/>&nbsp;&nbsp;&nbsp;</a> 
  <br>
