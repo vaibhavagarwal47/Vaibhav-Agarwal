@@ -1,9 +1,11 @@
-<div align="center">
+<!--<div align="center">
 <img width="100%" height = "300px" src="connected-vertices.gif" alt="cover" />
-</div>
+</div>-->
 
 <h1 align="center"> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>  It's Vaibhav Agarwal Here :)</h1>
 
+ ![](https://activity-graph.herokuapp.com/graph?username=vaibhavagarwal47&theme=react-dark&hide_border=true&area=true)
+ 
 <h2> About Me </h2>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
@@ -54,7 +56,8 @@
  <a href = 'https://www.facebook.com/vaibhav.aggarwal.18007218'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/facebook.svg"/>&nbsp;&nbsp;&nbsp;</a> 
  <a href = 'https://www.instagram.com/vaibhav_agarwal47'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg"/>&nbsp;&nbsp;&nbsp;</a> 
  <br>
-
+<br>
+ <br>
   <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/vaibhavagarwal47/count.svg" />
