@@ -32,7 +32,8 @@
 <a href= https://github.com/vaibhavagarwal47?tab=repositories&q=&type=&language=github&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg'> </a>
 <a href= https://github.com/vaibhavagarwal47?tab=repositories&q=&type=&language=cpp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
 <a href=# ><img width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></a>
-<a href=# ><img width="30px" src="https://cdn.svgporn.com/logos/sublimetext-icon.svg"></a>
+<a href=# ><img width="30px" height="40px" src="https://cdn.svgporn.com/logos/sublimetext-icon.svg"></a>
+<a href="#" ><img height="40px" width="35px" src="https://img.icons8.com/fluency/48/000000/autocad.png"/></a>
 
  <br>
 <h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
