@@ -1,4 +1,4 @@
-<h1 align="center"> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>  Tushar Mukherjee Here :)</h1>
+<h1 align="center"> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>  Tushar Here :)</h1>
 
  ![](https://activity-graph.herokuapp.com/graph?username=vaibhavagarwal47&theme=react-dark&hide_border=true&area=true)
  
