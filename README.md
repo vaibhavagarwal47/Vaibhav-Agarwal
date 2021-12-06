@@ -1,8 +1,4 @@
-<!--<div align="center">
-<img width="100%" height = "300px" src="connected-vertices.gif" alt="cover" />
-</div>-->
-
-<h1 align="center"> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>  It's Vaibhav Agarwal Here :)</h1>
+<h1 align="center"> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>  Tushar Mukherjee Here :)</h1>
 
  ![](https://activity-graph.herokuapp.com/graph?username=vaibhavagarwal47&theme=react-dark&hide_border=true&area=true)
  
