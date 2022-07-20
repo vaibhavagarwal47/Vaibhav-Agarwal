@@ -50,17 +50,21 @@
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=react)
  
- <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="40px" height="40px"> </h2>
+ <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px" height="40px"> </h2>
  <a href = 'https://www.github.com/vaibhavagarwal47'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/>&nbsp;&nbsp;&nbsp;</a> 
 <a href = 'https://www.linkedin.com/in/vaibhavagarwal47'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/>&nbsp;&nbsp;&nbsp;</a> 
 <a href = 'https://www.twitter.com/vaibhavagg47'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/>&nbsp;&nbsp;&nbsp;</a> 
  <a href = 'https://www.facebook.com/vaibhav.aggarwal.18007218'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/facebook.svg"/>&nbsp;&nbsp;&nbsp;</a> 
  <a href = 'https://www.instagram.com/vaibhav_agarwal47'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg"/>&nbsp;&nbsp;&nbsp;</a> 
  <br>
+ <br>
+ <h2>Currently Listening :headphones:	</h2>
+ 
+ [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31fs6sljvcxgpeu7srgbqqzjke5q&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31fs6sljvcxgpeu7srgbqqzjke5q&redirect=true)
+ 
 <br>
  <br>
   <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/vaibhavagarwal47/count.svg" />
 </p>
- 
