@@ -4,8 +4,7 @@
 
 <h1 align="center"> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px" height="35px">  It's Vaibhav Agarwal Here :)</h1>
 
- ![](https://activity-graph.herokuapp.com/graph?username=vaibhavagarwal47&theme=react-dark&hide_border=true&area=true)
- 
+![](https://github-readme-activity-graph.cyclic.app/graph?username=vaibhavagarwal47&bg_color=191919&color=ffffff&line=62fcfe&point=ffffff&area=true&hide_border=true)
 <h2> About Me </h2>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
